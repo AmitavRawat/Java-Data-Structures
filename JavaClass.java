@@ -3,6 +3,9 @@ import java.util.ArrayList;
 public class JavaClass {
     public static void main(String[] args) {
         /*
+
+        hi
+
         //creates new array of 10 spaces all 0
         int[] arr = new int[10];
 
