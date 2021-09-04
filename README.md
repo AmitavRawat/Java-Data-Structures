@@ -1,2 +1,2 @@
 # Java-Data-Structures
-lol
+Coding small programs encorporating ALL Java Data Structures. 
